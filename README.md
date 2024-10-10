@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshuldwr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EHfW6bpgWFvFOK0f5gLHko7Ug6wiusAX/view?usp=sharing](https://drive.google.com/file/d/1EHfW6bpgWFvFOK0f5gLHko7Ug6wiusAX/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1naXwsspd53j2ZKFg_9Re7aNz9oWNmJhs/view?usp=sharing)
 
 - ⚡ Fun fact **I love playing games (on pc not outside)**
 

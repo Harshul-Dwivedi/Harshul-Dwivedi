@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshul-dwivedi" alt="harshul-dwivedi" /></a> </p>
 
-- 🔭 I’m currently working on **a Blog App**
+- 🔭 I’m currently working on **a Movie App**
 
-- 🌱 I’m currently learning **Flutter,Springboot and DSA**
+- 🌱 I’m currently learning **Flutter,Java,Springboot and Data Structures,Algorithms**
 
 - 💬 Ask me about **Mobile Development,New Tech**
 

@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Mobile Development,Tech Related Stuff and Video Games**
 
-- 📫 How to reach me **harshuldwr@gmail.com**
+- 📫 How to reach me **harshuldwi@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ORyJqEUu4_W3FtF0tCe6O48s450jaUqC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1g9PkhZXuku-p3Cs2ttYIjp1DV31bWWum/view?usp=sharing)
 
 - ⚡ Fun fact **I love playing games (on pc not outside)**
 
